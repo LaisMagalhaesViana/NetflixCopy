@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    text-decoration: none;
+    box-sizing: border-box;
+    padding: none;
+    margin: none;
+    font-family: 'Roboto', sans-serif;
+    background-image: url("./img/background.jpg");
+}
+
+.background__netflix {
+    width: 100%;
+    
+    
+}
